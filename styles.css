@@ -2,3 +2,13 @@ p{
     font-size: 14px;
     font-family: 'Courier New', Courier, monospace;
 }
+.main{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.react{
+    background-color: yellow;
+    padding: 50px;
+    margin: 50px;
+}
